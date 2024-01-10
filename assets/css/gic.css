@@ -1,0 +1,23 @@
+.img-about-gic {
+    border-radius: 20px;
+    border: 2.5px solid #5cb874;
+    padding: 3px;
+}
+
+.content-about-gic p, h3{
+    text-align: justify;
+}
+
+.content-about-gic span{
+    text-align: justify;
+}
+
+.section-title-informasi {
+    padding-bottom: 10px !important;
+}
+
+#map {
+    width: 80px !important;
+    /* height: 10vh !important; */
+    position: relative;
+}
