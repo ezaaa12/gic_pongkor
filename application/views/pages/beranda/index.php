@@ -114,12 +114,12 @@
     </section>
     <!-- End About Us Section -->
 
-     <!-- ======= About Us Section ======= -->
-     <section id="berita" class="berita">
+    <!-- ======= About Us Section ======= -->
+    <section id="berita" class="berita">
       <div class="container">
 
         <div class="section-title">
-          <h2>Berita dalam derita</h2>
+          <h2>Berita</h2>
         </div>
 
         <div class="card mb-3" >

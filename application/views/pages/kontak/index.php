@@ -9,7 +9,7 @@
           <div class="carousel-container">
             <div class="container">
               <h2 class="animate__animated animate__fadeInDown">Geopark Pongkor
-              <span class="d-block">Galeri</span></h2>
+              <span class="d-block">Kontak</span></h2>
               <p class="animate__animated animate__fadeInUp">Selamat datang di website Geopark Pongkor. <br>Sistem ini hanya menampilkan informasi pariwisata Geopark Pongkor</p>
             </div>
           </div>
@@ -25,7 +25,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Galeri</h2>
+          <h2>Kontak</h2>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
